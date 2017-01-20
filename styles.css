@@ -1,0 +1,117 @@
+html {
+    font-family: "Courier New";
+}
+
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #999;
+
+}
+
+header {
+    padding: 1.875em 0;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 4em;
+    font-weight: bold;
+}
+
+header h2
+#intro {
+        margin-left: 15pt;
+        font-weight: bold;
+        font-style: italic;
+}
+
+img {
+    border-radius: 8px;
+}
+
+#day1 {
+    width:768px;
+    height:432px;
+}
+
+#mountains {
+    width:413px;
+    height:232px;
+}
+#swing {
+    width:232px;
+    height:232px;
+}
+#river1 {
+    width:216px;
+    height:384px;
+}
+#picnic {
+    width:234px;
+    height:416px;
+}
+
+#river2 {
+    width:624px;
+    height:351px;
+}
+
+#nap {
+    width:480px;
+    height:270px;
+}
+
+#fun {
+    width:304px;
+    height:539px;
+}
+#canyon1 {
+    width:624px;
+    height:351px;
+}
+
+#canyon2 {
+    width:576px;
+    height:324px;
+}
+
+#canyon3 {
+    width:576px;
+    height:324px;
+}
+
+#creek1 {
+    width:624px;
+    height:351px;
+}
+
+#creek2 {
+    width:351px;
+    height:550px;
+}
+
+#vegas_sign {
+    width:350px;
+    height:200px;
+}
+
+#vegas_pool1 {
+    width:234px;
+    height:416px;
+}
+
+#vegas_pool2 {
+    width: 232px;
+    height: 413px;
+}
+#vegas_night {
+    width: 416px;
+    height: 234px;
+}
+
+#breakfast {
+    width: 413px;
+    height: 232px;
+}
